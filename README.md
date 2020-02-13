@@ -6,7 +6,7 @@ This is a test about react.js, web development and/or javascript skills. This is
 ## Instructions
 You're gonna to start from a existing react app project and are going to work on top of it, modifying according to your client needs (in this case, us). The project can be cloned from
 
-    https://github.com/drminnaar/react-movie-cards.
+    https://github.com/drminnaar/react-movie-cards
     
 (you can follow its Getting started to setup and run it). 
 
