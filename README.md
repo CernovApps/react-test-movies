@@ -4,15 +4,15 @@
 This is a test about react.js, web development and/or javascript skills. This is not a closed problem, but an opportunity to show us your skills, primarly (but not exclusive) creativity, problem design, agile, scalable and bug free development.
 
 ## Instructions
-You're gonna to start from a existing react app project and are going to work on top of it, modifying according to your client needs (in this case, us). The project can be cloned from 
+You're gonna to start from a existing react app project and are going to work on top of it, modifying according to your client needs (in this case, us). The project can be cloned from
 
-    http://react-movie-cards.drminnaar.me/ 
+    https://github.com/drminnaar/react-movie-cards.
     
 (you can follow its Getting started to setup and run it). 
 
-After setupping and running this template locally, it should be something like showed here:
+After setupping and running this template locally, it should be something like showed here: 
 
-    https://github.com/drminnaar/react-movie-cards.
+    http://react-movie-cards.drminnaar.me/ 
     
 If you have any troubles, you can ask for help (or search by yourself, but be careful of Hero Sindrome).
 
