@@ -30,7 +30,7 @@ and familiarize with its services.
 ##### Second
 Choose some method to get movie data from it. We suggest something like this end point: 
 
-    https://developers.themoviedb.org/3/discover/movie-discover
+    https://developers.themoviedb.org/3/discover/movie
     
 but you are free to choose any other will want.
 
