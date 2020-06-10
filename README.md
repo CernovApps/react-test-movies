@@ -23,7 +23,7 @@ In this task you'll need to populate the main view (cards grid list) with movies
 ##### First
 Access and explore, if you want to, this link: 
 
-    https://www.themoviedb.org/ 
+    https://www.themoviedb.org/documentation/api
     
 and familiarize with its services.
 
